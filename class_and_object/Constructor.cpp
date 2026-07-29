@@ -22,10 +22,6 @@ int main() {
     Student Meghla(10,1,5.00);
     Student Rafi(12,1,5.00);
 
-    
-    
-    
-
     cout << "Class = "<<Meghla.cls<< " \n"<<"Roll = "<< Meghla.roll<< " \n"<<"GPA = "<< Meghla.GPA<<endl;
     cout << "Class = "<<Rafi.cls<< " \n"<<"Roll = "<< Rafi.roll<< " \n"<<"GPA = "<< Rafi.GPA<<endl;
 
