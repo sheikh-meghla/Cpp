@@ -1,0 +1,1 @@
+{"name":"Local: String-Modifiers-Part-I","url":"c:\\Users\\sheik\\meghla\\c++\\String-Modifiers-Part-I.cpp","tests":[{"id":1785423519740,"input":"Megh\nla","output":"Meghla"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sheik\\meghla\\c++\\String-Modifiers-Part-I.cpp","group":"local","local":true}
