@@ -1,0 +1,1 @@
+{"name":"Local: String-input-with-spaces","url":"c:\\Users\\sheik\\meghla\\c++\\String-input-with-spaces.cpp","tests":[{"id":1785514668999,"input":"10\nMeghla Sheikh","output":"10\nMeghla Sheikh"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sheik\\meghla\\c++\\String-input-with-spaces.cpp","group":"local","local":true}
