@@ -7,7 +7,8 @@ int main() {
     string s = "Meghla Sheikh";
 
     // s.erase(4,2);
-    s.replace(7,6,"Dev");
+    // s.replace(7,6,"Dev");
+    s.insert(13," Dev");
     cout << s;
     return 0;
 }
