@@ -1,0 +1,1 @@
+{"name":"Local: Range-based-for-loop","url":"c:\\Users\\sheik\\meghla\\c++\\Range-based-for-loop.cpp","tests":[{"id":1785576140711,"input":"meghla","output":"m\ne\ng\nh\nl\na"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sheik\\meghla\\c++\\Range-based-for-loop.cpp","group":"local","local":true}
