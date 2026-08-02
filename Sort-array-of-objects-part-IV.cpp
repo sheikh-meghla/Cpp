@@ -33,13 +33,20 @@ bool cmp(Student l,Student r)
     //     }
         
     // }
+
+
     // or
-    if(l.marks == r.marks){
-        return l.roll < r.roll;
-    }
-    else{
-       return l.marks < r.marks;
-    }
+
+    // if(l.marks == r.marks){
+    //     return l.roll < r.roll;
+    // }
+    // else{
+    //    return l.marks < r.marks;
+    // }
+
+    // or ternary operator 
+
+    return (l.marks == r.marks) ? l.roll < r.roll:l.marks < r.marks;
 }
 
 int main() {
