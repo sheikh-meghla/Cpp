@@ -14,17 +14,19 @@ public:
 int main() {
     int n;
     cin >> n;
-
+    
     Student a[n];
     for (int i = 0; i < n; i++)
     {
-        cin >> a[i].name>>a[i].roll>>a[i].marks;
+        cin.ignore();
+        getline(cin,a[i].name);
+        cin >>a[i].roll>>a[i].marks;
     }
     
     for (int i = 0; i < n; i++)
     {
         
-        cout << "Name = "<<a[i].name<<" "<<"Roll = "<<" "<<a[i].roll<<"Marks = "<<a[i].marks<< endl;
+        cout << "Name="<<a[i].name<<" "<<"Roll="<<a[i].roll<<" "<<"Marks="<<a[i].marks<< endl;
     }
     
     
