@@ -1,0 +1,1 @@
+{"name":"Local: Min-from-array-of-objects","url":"c:\\Users\\sheik\\meghla\\c++\\Min-from-array-of-objects.cpp","tests":[{"id":1785678091050,"input":"3\nMeghla 1 85\nLiza 2 100\nNurani 1 99\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sheik\\meghla\\c++\\Min-from-array-of-objects.cpp","group":"local","local":true}
