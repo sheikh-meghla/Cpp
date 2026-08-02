@@ -1,0 +1,1 @@
+{"name":"Local: Sort-array-of-objects-part-I","url":"c:\\Users\\sheik\\meghla\\c++\\Sort-array-of-objects-part-I.cpp","tests":[{"id":1785679421398,"input":"3\nMeghla 1 85\nLiza 2 100\nNurani 1 99","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sheik\\meghla\\c++\\Sort-array-of-objects-part-I.cpp","group":"local","local":true}
