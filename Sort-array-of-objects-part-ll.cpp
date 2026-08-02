@@ -21,6 +21,8 @@ bool cmp(Student l,Student r)
     {
         return false;
     }
+
+    // or return l.marks > r.marks;
 }
 
 int main() {
